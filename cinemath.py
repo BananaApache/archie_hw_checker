@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup as bs
 
 base_url = "http://cinemath.archimedean.org/index.php"
 payload = {
-    "username": "danielli",
-    "password": "1234567890"
+    "username": "",
+    "password": ""
 }
 
 
